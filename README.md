@@ -20,4 +20,4 @@ We can split the Arima term into three terms, AR, I, MA:
 
     3.  Check for stationarity : Most time series models require the data to be stationary. A time series is said to be stationary if its statistical properties such as mean, variance & covariance remain constant over time. The formal ways to check for this are plotting the data and do a visual analysis and use a statistical test.
 		* Visual: we can use the decomposition method which allows us to separately view seasonality (which could be daily, weekly, annual, etc), trend and random which is      the variability in the data set after removing the effects of the seasonality and trend.
-[COP26_Final.pdf](https://github.com/Code-F5/COP26/files/8736203/COP26_Final.pdf)
+![COP26_Final.pdf](https://github.com/Code-F5/COP26/files/8736203/COP26_Final.pdf)
