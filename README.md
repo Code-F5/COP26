@@ -1,5 +1,5 @@
 # COP26
-Data science project for predicting earth temperature using ARIMA,SARIMA and XG-BOOST
+Data science project for predicting earth temperature using ARIMA,SARIMA and XG-BOOST algorithms.
 The difference between ARIMA and SARIMA (SARIMAX) is about the seasonality of the dataset. if  data is seasonal, like it happen after a certain period of time then we will use SARIMA.
 Time series is a series of data points measured at consistent time intervals such as yearly, daily, monthly, hourly and so on. It is time-dependent & the progress of time is an important aspect of the data set. One of the most common methods used in time series forecasting is known as the ARIMA model, which stands for Auto Regressive Integrated Moving Average. ARIMA is a model that can be fitted to time series data to predict future points in the series.
 We can split the Arima term into three terms, AR, I, MA:
